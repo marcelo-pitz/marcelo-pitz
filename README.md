@@ -7,5 +7,5 @@ I'm Marcelo from Brazil, and I study software engineering. I really enjoy learni
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-<img src="">
-<img src="" width="200" >
+<img src="https://github.com/marcelo-pitz/marcelo-pitz/blob/main/loading.gif">
+<img src="https://github.com/marcelo-pitz/marcelo-pitz/blob/main/loadingBar.gif" width="200" >
